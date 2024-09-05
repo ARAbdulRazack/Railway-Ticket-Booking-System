@@ -39,7 +39,7 @@ Below are example screenshots of the program in action:
  
 - Image 2:
 
-  ![Run Configuration](https://i.imgur.com/bkK3fFN.png)
+  ![Run Configuration](https://i.imgur.com/BHhXuHc.png)
   
 - Image 3:
 
