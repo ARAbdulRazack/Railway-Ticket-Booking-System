@@ -16,7 +16,7 @@ The Railway Ticket Booking System is a simple Java application that allows users
 
 ## How to Run the Program
 - Clone the repository to your local machine:
-git clone https://github.com/yourusername/RailwayTicketBookingSystem.git
+git clone https://github.com/yourusername/Railway-Ticket-Booking-System.git
 
 - Compile the Java source code:
 javac RailwayTicketBooking.java
