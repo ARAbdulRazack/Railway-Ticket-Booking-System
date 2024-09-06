@@ -1,12 +1,18 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-# Set the primary language for the repository
-* linguist-language=HTML
-
-# Override for specific file types
+# Force GitHub to recognize certain files as specific languages
 *.html linguist-language=HTML
 *.css linguist-language=CSS
 *.jsp linguist-language=HTML
 *.java linguist-language=Java
+
+# Optionally exclude certain file types from the language statistics
+*.xml linguist-vendored
+*.properties linguist-vendored
+*.md linguist-vendored
+*.yml linguist-vendored
+
+# Treat these file types as a specific language
+*.jsp linguist-detectable=true
 *.java linguist-detectable=true
