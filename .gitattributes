@@ -1,6 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# Set the primary language for the repository
+* linguist-language=HTML
+
 # Override for specific file types
 *.html linguist-language=HTML
 *.css linguist-language=CSS
